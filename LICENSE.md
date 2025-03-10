@@ -1,6 +1,6 @@
-## MIT License
+# MIT License
 
-# Copyright (c) 2025 Jagasr (Thomas)
+### Copyright (c) 2025 Jagasr (Thomas)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,9 +22,9 @@ SOFTWARE.
 
 ## Confused about the license?
 
-# License in simpler terms:
+### License in simpler terms:
 
 - I don't mind it being copied
 - It needs to have this license written in any copies made referring back to me (Giving me credit in other words)
 
-If you have any questions, please email me using the email provided on my profile (https://github.com/Jagasr)
+If you have any questions, please email me using the email provided on my [profile](https://github.com/Jagasr)
